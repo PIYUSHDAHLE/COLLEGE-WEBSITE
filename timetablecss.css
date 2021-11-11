@@ -1,0 +1,60 @@
+*{
+    background-color: rgb(142, 235, 199);
+}
+body{
+    margin: 0 auto;
+    max-width: 1000px;
+    width: 100%;
+}
+h1{
+    text-align:center;
+    color: rgb(0, 0, 0);
+}
+table{
+    border: "1";
+    align-items: center;
+    width: 100%;
+}
+table,tr,th,td{
+    border: 3px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    border-spacing: 5px;
+    text-align:center;
+    font-size: x-large;
+    font-weight: 550;
+}
+
+th{
+    background-color: coral;
+}
+
+td{
+    background-color: darkgray;
+}
+
+td.a{
+    background-color: rgb(158, 223, 142);
+}
+
+td.b{
+    background-color: rgb(224, 161, 195);
+}
+td.c{
+    background-color: rgb(98, 147, 202);
+}
+
+td.d{
+    background-color: rgb(224, 170, 161);
+}
+td.e{
+    background-color: rgb(142, 223, 216);
+}
+
+td.f{
+    background-color: rgb(224, 218, 161);
+}
+
+td.ee{
+    background-color: rgb(68, 67, 59);
+}

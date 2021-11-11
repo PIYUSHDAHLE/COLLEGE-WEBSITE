@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(78, 56, 56);
+}
+
+header {
+    padding: 40px;
+    background-color: rgb(88, 202, 88);
+}
+
+nav {
+    background-color: rgb(85, 221, 210);
+    overflow: hidden;   
+     text-align: center; 
+}
+
+nav a {
+    text-decoration: none;
+    text-indent: 20px;
+    padding: 30px;
+    text-align: center;
+    float: left;
+    font-weight: 600;
+    line-height: 0rem;
+    color: rgb(63, 81, 87);
+  
+}
+
+nav a:hover{
+        color: rgb(197, 71, 255);
+           }
+       
+main {
+  
+    background-color: rgb(238, 217, 149);
+    text-align: center;
+}
+
+h2{
+    padding: 50px;
+    font-style: oblique ;
+    color: rgb(70, 73, 250);
+    font-family: cursive;
+}
+h3{
+    font-family: cursive;
+    color: rgb(245, 49, 114);
+
+}
+
+div a{
+    color: tomato;
+}
+
+div a:hover{
+    color: teal;
+}
+section {
+    min-height: 120vh;
+}
+
+img {
+    padding: 10px;
+    
+}
+p{
+   font-style: italic;
+   font-size: x-large; 
+}
+
+footer {
+    background-color: #333;
+    overflow: hidden;
+
+}
+
+footer a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color: rgb(226, 226, 226);
+}
